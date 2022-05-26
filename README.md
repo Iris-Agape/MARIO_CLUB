@@ -1,2 +1,2 @@
 # Mario_Club
-This project is the application of the basic HTML and CSS that I have learned in this project, Full Stack Web Development. I have added upon a few features in the site in addition to the ones I learned and implimented from the Tutorial.
+Hey Guys! This is Samuel Raju Bethala from the Chemistry Department and this is my report of what I have done in my Project Full Stack Development. Till now, in the project I have covered, HTML and CSS and a bit of JavaScript. The JavaScript part couldn't be finished, due to some unforseen issues and work. But, I promise that I will be finishing my due work after the Mid Sems and will soon catch up with my fellow mentees. I have learned about what is HTML, CSS and JavaScript and how to implement them.
